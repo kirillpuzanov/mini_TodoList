@@ -1,0 +1,11 @@
+.item-add-form {
+    width: auto;
+    margin-top: 10px;
+    justify-content: space-between;
+}
+.add-item-input {
+    min-width: 225px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-left: 10px;
+}
